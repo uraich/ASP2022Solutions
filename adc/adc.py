@@ -2,6 +2,7 @@
 # to the ADC on pin 36 marked A0 on the ESP32 CPU board
 # Copyright U. Raich 2020
 # The program is part of the IoT course at the University of Cape Coast, Ghana
+# Released under the MIT license
 
 from machine import Pin, ADC
 from time import sleep_ms

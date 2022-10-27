@@ -6,6 +6,7 @@
 # from the color table
 # Copyright U. Raich 2022
 # The program is part of the African School of Physics 2022
+# Released under the MIT license
 
 from machine import Pin, ADC
 from neopixel import NeoPixel

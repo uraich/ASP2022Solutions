@@ -4,6 +4,7 @@
 # RGB LED shield is selected. Prints slice number
 # Copyright U. Raich 2022
 # The program is part of the African School of Physics 2022
+# Released under the LIT license
 
 from machine import Pin, ADC
 from time import sleep_ms

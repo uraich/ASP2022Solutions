@@ -2,6 +2,7 @@
 # LED number corresponds to which physical LED
 # Copyright U. Raich 2022
 # The program is part of African School of Physics 2022
+# Released under the MIT license
 
 from machine import Pin
 from neopixel import NeoPixel

@@ -3,6 +3,7 @@
 # African School of Fundamental Physics 2022
 # Copyright (c) U.Raich
 # The program is released under the MIT license
+# Released under the MIT license
 
 from machine import Pin
 from time import sleep_ms
