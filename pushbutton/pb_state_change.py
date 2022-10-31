@@ -8,7 +8,7 @@
 from machine import Pin
 from time import sleep_ms
 
-PB_PIN = 22 # the push button is connected to this pin
+PB_PIN = 17 # the push button is connected to D3 <> GPIO 17
 
 pb = Pin(PB_PIN,Pin.IN, Pin.PULL_UP) # program the pin to be input  and
                                      # add the pull up resistor

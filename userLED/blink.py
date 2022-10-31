@@ -7,7 +7,7 @@
 
 from machine import Pin
 from time import sleep_ms
-LED_PIN = 19
+LED_PIN = 2
 
 led = Pin(LED_PIN,Pin.OUT)
 
