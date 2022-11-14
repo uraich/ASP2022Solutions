@@ -17,8 +17,8 @@ def fibonacci(n):
     else:
         a = 0
         b = 1
-        for i in range(n):
-            F = a + b
+        for i in range(n-1):
+            F = a+b
             a = b
             b = F
     return F
